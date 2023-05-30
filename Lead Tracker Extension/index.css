@@ -16,6 +16,11 @@ button{
     padding-bottom: 5px;
 }
 
+button:active{
+   background-color:lighgreen;
+    box-shadow:5px 5px;
+}
+
 input{
     width: 100%;
     padding-top: 5px;
